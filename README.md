@@ -1,6 +1,9 @@
 # Custom Rom Builder For Samsung Galaxy A11/M11
 This is modified for repartitioned a11/m11
-All Thanks goes to @Smiley9000 for his a11qzip and also to Tg user @A03corebooted for his repartition script.
+
+All Thanks goes to @Smiley9000 for his a11qzip and also to Tg user @A03corebooted 
+for his repartition script.
+
 <br>⚬ This tool can create full flashble zip with any gsi</br>
 ⚬ This tool support both arm32 and arm64
 ⚬ Arm64 still not supported
