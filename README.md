@@ -1,7 +1,7 @@
 # Custom Rom Builder For Samsung Galaxy A11/M11
 This is modified for repartitioned a11/m11
 
-All Thanks goes to @Smiley9000 for his a11qzip and also to Tg user @A03corebooted 
+All Thanks goes to @Smiley9000 for his a11qzip and also to Tg user @A03coreRooted 
 for his repartition script.
 
 <br>⚬ This tool can create full flashble zip with any gsi</br>
@@ -48,3 +48,6 @@ like this LineageOS_19.1_SDM439_ARM32_Gapps
 
 # ⚬Telegram
 <br>https://t.me/samsung_galaxy_m01_a01_m11_a11<br>
+
+link for repartition
+https://t.me/a01_a11_a02s_450_439_community/68649
