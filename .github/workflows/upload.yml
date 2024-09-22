@@ -43,7 +43,7 @@ jobs:
       run: |
         wget -P "./temp" ${{ github.event.inputs.GSI }} 
         chmod 755 *
-        chmod 755 ./bin/*
+        chmod 755 a11q/bin/*
 
     - name: Building
       run: |
