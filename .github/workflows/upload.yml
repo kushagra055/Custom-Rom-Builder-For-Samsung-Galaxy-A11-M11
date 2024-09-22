@@ -25,7 +25,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Install Dependencies
       run: |
@@ -43,7 +43,7 @@ jobs:
       run: |
         wget -P "./temp" ${{ github.event.inputs.GSI }} 
         chmod 755 *
-        chmod 755 a11q/bin/*
+        chmod 755 ./bin/*
 
     - name: Building
       run: |
