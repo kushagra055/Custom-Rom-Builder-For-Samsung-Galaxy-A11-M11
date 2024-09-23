@@ -3,7 +3,8 @@ This is modified for repartitioned a11/m11
 
 All Thanks goes to @Smiley9000 for his a11qzip and also to Tg user @A03coreRooted 
 for his repartition script.
-
+UPDATED VENDOR 
+Thanks to @reptilian980 tg user for new vendor.
 <br>⚬ This tool can create full flashble zip with any gsi</br>
 ⚬ This tool support both arm32 and arm64
 ⚬ Arm64 still not supported
